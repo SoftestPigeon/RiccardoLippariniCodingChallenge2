@@ -1,0 +1,93 @@
+*{
+  box-sizing: border-box;
+  margin: 0px;
+}
+body{
+  background-image: url(background.jpg);
+  background-repeat: no-repeat;
+}
+.container{
+  margin-top: 400px;
+  margin-right:1000px;
+  margin-left: 1000px;
+  margin-bottom: 1000px;
+  padding-bottom: 1000px;
+  background-color: rgba(0, 0, 0, 0.5);
+  border-radius: 25px;
+
+
+}
+#logo{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+}
+header > h1{
+  text-align: center;
+  color: rgb(57, 255, 20);
+  font-size: 50px;
+  font-family: 'Noto Sans JP', sans-serif;
+}
+ nav{
+   margin: auto;
+   width: 2700px;
+   padding: 20px;
+  background-color: rgb(57, 255, 20);
+  border-radius: 25px;
+}
+.button{
+  font-size: 20px;
+}
+.row1{
+  margin-left: 170px;
+  margin-top: 100px;
+
+
+}
+#checkbox{
+  margin: auto;
+  width: 20px;
+  height: 20px;
+
+}
+.monopattini{
+  font-family: 'Noto Sans JP', sans-serif;
+  font-size: 50PX;
+  color: white;
+  display: inline-block;
+}
+.via{
+  font-family: 'Noto Sans JP', sans-serif;
+  font-size: 20PX;
+  color: white;
+  display: block;
+}
+.statocarica{
+  font-family: 'Noto Sans JP', sans-serif;
+  font-size: 20PX;
+  color: white;
+  display: block;
+}
+
+.battery1{
+  margin:0px;
+  width: 400px;
+  padding: 20px;
+ background-color: rgb(57, 255, 20);
+ border-radius: 25px;
+}
+.battery2{
+  margin:0px;
+  width: 200px;
+  padding: 20px;
+ background-color: rgb(255, 255, 60);
+ border-radius: 25px;
+}
+.battery3{
+  margin:0px;
+  width: 600px;
+  padding: 20px;
+ background-color: rgb(250, 255, 90);
+ border-radius: 25px;
+}
